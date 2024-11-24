@@ -29,8 +29,7 @@ Ensure the following are installed before starting:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Singapore-Flat-Resale
-    cd Singapore-Flat-Resale
+    https://github.com/iAka5h/Singapore-Flat-Resale.git
     ```
 
 2. Install required packages:
